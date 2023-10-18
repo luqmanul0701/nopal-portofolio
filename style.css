@@ -19,3 +19,15 @@ section{
     padding-top: 5rem;
 }
 
+@media (min-height <375px){
+    #contact {
+        background-color: #ffd700;
+        margin-bottom: 400px;
+    }
+
+
+    .footer {
+        margin-bottom: 400px;
+    }
+}
+
